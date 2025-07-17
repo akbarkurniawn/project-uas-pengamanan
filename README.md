@@ -52,6 +52,7 @@ Content-Type: application/json
   "username": "admin_hacked",
   "email": "admin@gmail.com"
 }
+
 Hasil: Jika endpoint tidak memverifikasi siapa pengaksesnya, maka data admin akan tergantikan.
 
 
