@@ -45,7 +45,9 @@ Setelah logout, token lama masih bisa digunakan karena tidak ada mekanisme pemba
 Permintaan yang disalahgunakan
 
 PUT /api/users/update/1
+
 Authorization: Bearer <token_user_biasa>
+
 Content-Type: application/json
 
 {
