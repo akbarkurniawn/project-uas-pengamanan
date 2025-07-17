@@ -53,7 +53,7 @@ Content-Type: application/json
   "email": "admin@gmail.com"
 }
 
-Hasil: Jika endpoint tidak memverifikasi siapa pengaksesnya, maka data admin akan tergantikan.
+**Hasil**: Jika endpoint tidak memverifikasi siapa pengaksesnya, maka data admin akan tergantikan.
 
 
 **Solusi Implementasi:**  
